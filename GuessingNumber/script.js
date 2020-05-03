@@ -1,4 +1,4 @@
-alert("You are connected!");
+alert("You are connected !");
 var num=10;
 var guessed_num=Number(prompt("Guess the number: ")); // since prompt returns string , we convert it to number;
 
